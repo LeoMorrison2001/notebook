@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 🚀 开始阅读
-      link: /markdown-examples
+      link: /tech/java
     - theme: alt
-      text: 📖 了解本项目
-      link: /api-examples
+      text: 📖 Wemirr Platform
+      link: /wemirr-platform/基础框架
 
 features:
   - title: 🧠 体系化思考
